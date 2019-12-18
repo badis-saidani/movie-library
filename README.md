@@ -34,6 +34,8 @@ mvn spring-boot:run
 
 npm install
 
-### Run application by using Angular-cli and go to http://localhost:4200
+### Run application
 
 ng serve
+
+Go on http://localhost:4200
